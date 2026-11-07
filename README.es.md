@@ -30,7 +30,7 @@ La implementación de esta carpeta sigue el modelo descrito por Sraibman y Minot
 
 * `omegaf.m`, `densidad.m` y `velmeri4.m` calculan los perfiles de rotación, densidad y flujo meridional impuesto, respectivamente.
 
-* `alfan4.m` obtiene el coeficiente alfa cinemático. `ws1alfaBL1.m` evoluciona la vorticidad de retroalimentación y calcula el alfa asociado al mecanismo BL.
+* `alfan4.m` obtiene el coeficiente alfa cinemático. `ws1alfaBL1.m` evoluciona la vorticidad de retroalimentación y calcula el alfa asociado al dínamo.
 
 * `etauv4.m` estima la difusividad turbulenta local a partir del flujo, la rotación y el campo magnético.
 
