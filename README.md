@@ -2,7 +2,7 @@
 
 # AXISYMMETRIC SOLAR DYNAMO MODEL - MATLAB
 
-=============================================
+
 
 ## PURPOSE
 
